@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package net.nosh.mobtweaks;
 
 import net.fabricmc.api.ModInitializer;
 
